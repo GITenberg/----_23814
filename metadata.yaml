@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26047
     wikipedia: http://en.wikipedia.org/wiki/Jia_Yi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23814#----
 gutenberg_issued: '2007-12-11'
 gutenberg_type: Text
 identifiers:
